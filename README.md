@@ -1,4 +1,4 @@
-#  calculadora-faturamento-anual
+#  Calculadora de Faturamento Anual 
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
